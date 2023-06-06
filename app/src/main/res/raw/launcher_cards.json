@@ -1,0 +1,14 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 8,
+        "type": "DEFAULT",
+        "title": "Music consumption Examples",
+        "localImageResource": "thumbnail_example_music_consumption",
+        "description": "Showcase of various card design and layouts"
+      }
+    ]
+  }
+]
